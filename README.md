@@ -111,7 +111,7 @@ ModelYear, Electric_Range, Base_MSRP, DOL_Vehicle_ID
 
 
 ## Summary & Conclusion
-The Electric Vehicle Population dataset contains information on Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) registered through Washington State Department of Licensing (DOL). Through exploratory data analysis, the top 10 counts of cars per county, city, state, and postal code were determined. King County had the most cars registered, followed by Snohomish and Pierce counties. Seattle had the most cars registered by city, followed by Bellevue and Redmond. Washington had the most cars registered by state, followed by California and Virginia.
+The Electric Vehicle Population dataset contains information on Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) registered through the Washington State Department of Licensing (DOL). Through exploratory data analysis, the top 10 counts of cars per county, city, state, and postal code were determined. King County had the most cars registered, followed by Snohomish and Pierce counties. Seattle had the most cars registered by city, followed by Bellevue and Redmond. Washington had the most cars registered by state, followed by California and Virginia.
 
 The dataset also provided insight into the top 10 consumed car makers by county, city, and state, with Tesla being the most popular make overall. There appears to be an opportunity for car vendors like Audi and BMW to market their vehicles in other states. The top 10 postal codes were also identified, providing further insight for marketing and upselling opportunities.
 
@@ -119,16 +119,16 @@ The dataset also provided insight into the top 10 consumed car makers by county,
 
   To Conclude:
 
-* King county has the highest number of electric cars registered with 65,268 cars, followed by Snohomish and Pierce county.
+* King County has the highest number of electric cars registered with 65,268 cars, followed by Snohomish and Pierce County.
 * Seattle is the city with the highest number of electric cars with 22,009 cars, followed by Bellevue and Redmond.
 * Washington state has the highest number of electric cars with 1,24,419 cars, followed by California, Virginia, and Maryland.
 * The top 10 postal codes with the highest number of electric cars are in the Seattle metro area, with 98052 having the most with 3,247 cars.
-* Tesla is the most popular electric car make in Washington state, followed by Nissan, Chevrolet, and Toyota.
-* Tesla is also the most popular make in Seattle, followed by Nissan, Chevrolet, and BMW.
+* Tesla is the most popular electric car maker in Washington state, followed by Nissan, Chevrolet, and Toyota.
+* Tesla is also the most popular maker in Seattle, followed by Nissan, Chevrolet, and BMW.
 * Washington state has the highest number of Audi, BMW, and Chevrolet electric cars registered among all states.
 * There is a big marketing opportunity for car vendors like Audi, BMW, and Chevrolet in other states, such as Arizona, Florida, and Colorado.
 --------
 
   ### Author: Lakshmi Kant
-* Linkedin: https://www.linkedin.com/in/digiaiworld/
-* Portfolio Website: https://digiaiworld.netlify.app/
+* Linkedin: https://www.linkedin.com/in/kant-ai/
+* Portfolio Website: https://genrix.netlify.app/
